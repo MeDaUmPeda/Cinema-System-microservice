@@ -1,0 +1,18 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Maven
+target/
+*.log
+
+# Docker
+docker-data/
+*.pid
+
+# Logs
+/logs/
+*.log
+
+# System
+.DS_Store
